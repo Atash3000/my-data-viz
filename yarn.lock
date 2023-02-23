@@ -2292,7 +2292,7 @@
     "@types/react" "*"
     prop-types "^15.5.7"
 
-"@visx/group@3.0.0":
+"@visx/group@3.0.0", "@visx/group@^3.0.0":
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/@visx/group/-/group-3.0.0.tgz#e7f9752599bcc7e141ff5317a2a9a502577ab8df"
   integrity sha512-SFjXhTMcsaVAb1/TVL1KM5vn8gQTIVgSx0ATdDl4BJSFp2ym1lO8LY4jpV4SFweaHnWxVwrrfGLTn5QsYnvmjQ==
@@ -2336,7 +2336,7 @@
     lodash "^4.17.21"
     prop-types "^15.5.10"
 
-"@visx/text@3.0.0":
+"@visx/text@3.0.0", "@visx/text@^3.0.0":
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/@visx/text/-/text-3.0.0.tgz#9099c3605027b9ab4c54bde97518a648136c3629"
   integrity sha512-LW6v5T/gpd9RGw83/ScXncYc6IlcfzXTpaN8WbbxLRI65gdvSqrykwAMR0cbpQmzoVFuZXljqOf0QslHGnBg1w==
