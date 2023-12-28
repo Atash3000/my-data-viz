@@ -39,6 +39,8 @@
 .flex {
   display: flex;
   flex-wrap: wrap;
+  justify-content: center;
+  height: 68vh;
 }
 
 .input {
@@ -47,7 +49,7 @@
 }
 
 .input-container {
-  margin-top: 333px;
+  margin-top: 33px;
   background-color: rgb(18, 53, 41);
   width: 100%;
   height: auto;
